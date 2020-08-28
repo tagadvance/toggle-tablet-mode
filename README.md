@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-mkdir ~/git; cd ~/git; git clone git@github.com:tagadvance/envy-x360.git
+mkdir -p ~/git; cd ~/git; git clone git@github.com:tagadvance/envy-x360.git
 cd envy-x360
 # create shortcut
 ./install-desktop.py
