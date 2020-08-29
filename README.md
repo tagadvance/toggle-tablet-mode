@@ -16,5 +16,5 @@ Finally, add the toggle button to your dock/favorites. Tap the icon to disable o
 ## Inspiration
 The following two Ask Ubuntu questions served as the inspiration for this script.
  
-[Switch into tablet mode (in Gnome)](https://askubuntu.com/questions/716501/switch-into-tablet-mode-in-gnome/739091)
-[Can I make my keyboard disable / enter tablet mode when folding back my display?](https://askubuntu.com/questions/867350/can-i-make-my-keyboard-disable-enter-tablet-mode-when-folding-back-my-display)
+* [Switch into tablet mode (in Gnome)](https://askubuntu.com/questions/716501/switch-into-tablet-mode-in-gnome/739091)
+* [Can I make my keyboard disable / enter tablet mode when folding back my display?](https://askubuntu.com/questions/867350/can-i-make-my-keyboard-disable-enter-tablet-mode-when-folding-back-my-display)
