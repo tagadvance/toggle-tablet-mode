@@ -1,4 +1,4 @@
-# ![toggle icon](toggle.png) Toggle Tablet Mode -- Ubuntu on an ENVY x360
+# Toggle Tablet Mode -- Ubuntu on an ENVY x360
 
 ## What's this?
 This is a script for 2-in-1 laptops. It disables the keyboard and touchpad on my HP Envy x360 by tapping an icon in my dock.
@@ -12,6 +12,8 @@ cd envy-x360
 ```
 
 Finally, add the toggle button to your dock/favorites. Tap the icon to disable or reenable your keyboard and touchpad.
+
+![toggle icon](toggle.png)
 
 ## Inspiration
 The following two Ask Ubuntu questions served as the inspiration for this script.
