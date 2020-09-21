@@ -15,7 +15,7 @@ def get_keyboard(device: str = 'AT Translated Set 2 keyboard'):
 	return m.group(1)
 
 def get_touchpad(device: str = 'Touchpad'):
-	meta = run('xinput --list | grep "%s"' % device)
+	meta = run('xinput --list | grep -i "%s"' % device)
 	m = re.search('id=(\d+)', meta)
 	return m.group(1)
 
